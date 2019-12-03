@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MikeCheng1208/vue-metamask.git"
+    "url": "https://github.com/vgaicuks/vue-metamask.git"
   },
   "keywords": [
     "vue",
@@ -21,9 +21,9 @@
   "author": "mike cheng <https://github.com/MikeCheng1208/> (https://github.com/MikeCheng1208/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MikeCheng1208/vue-metamask/issues"
+    "url": "https://github.com/vgaicuks/vue-metamask/issues"
   },
-  "homepage": "https://github.com/MikeCheng1208/vue-metamask",
+  "homepage": "https://github.com/vgaicuks/vue-metamask",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
@@ -43,6 +43,7 @@
     "vue-html-loader": "^1.2.4",
     "vue-loader": "^15.2.6",
     "vue-template-compiler": "^2.5.16",
+    "web3": "^1.2.1",
     "webpack": "^4.16.3",
     "webpack-cli": "^3.1.0",
     "webpack-manifest-plugin": "^2.0.3"
